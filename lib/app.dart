@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       
       ],
     child: MaterialApp(
-      title: 'Connect Cubit',
+      title: 'Connectivity Cubit',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
